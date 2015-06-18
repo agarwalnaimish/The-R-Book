@@ -132,6 +132,8 @@ view
 Location[order(Price)]
 Location[rev(order(Price))]
 
+detach(houses)
+
 # Understanding the difference between 'unique' and 'duplicated'
 nvec <- c("Williams","Jones","Smith","Williams","Jones","Williams")
 table(nvec)

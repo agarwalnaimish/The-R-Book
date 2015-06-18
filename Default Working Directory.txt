@@ -1,0 +1,1 @@
+The default working directory is the folder in which The-R-Book.Rproj file is located.
